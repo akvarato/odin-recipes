@@ -2,7 +2,7 @@ body {
   background-color: bisque;
 }
 
-/* Syles for Header */
+/* Styles for Header */
 
 header {
   background-color: rgb(130, 91, 91);
@@ -10,11 +10,18 @@ header {
 }
 header h1 {
   text-align: center;
-  font-size: 34px;
+  font-size: 54px;
 }
 header a {
   color: beige;
   text-decoration: none;
+  font-size: 24px;
 }
 
 /* Styles Recipes */
+main h1 {
+  font-size: 34px;
+  font-style: bold;
+  text-align: center;
+  color: brown;
+}
