@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: #ffe4c4;
   padding-left: 100px;
   padding-right: 100px;
 }
@@ -32,4 +32,6 @@ main h1 {
 main img {
   margin: auto;
   display: block;
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px rgb(249, 208, 159);
 }
