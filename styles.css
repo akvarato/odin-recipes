@@ -1,6 +1,9 @@
 body {
   background-color: bisque;
 }
+
+/* Syles for Header */
+
 header {
   background-color: rgb(130, 91, 91);
   color: wheat;
@@ -13,3 +16,5 @@ header a {
   color: beige;
   text-decoration: none;
 }
+
+/* Styles Recipes */
